@@ -1,1 +1,42 @@
 /* Write your CSS here! */
+body{
+    background-color: #9c2e2e24;
+    margin: 8px;
+    display:block;
+    text-align:left;
+    font-size: 20px;
+
+}
+
+#mainHeading{
+    font-style: italic;
+    text-align: center;
+    font-size: 50px;
+    color:red
+}
+
+h1{
+    text-align: center;
+    font-size: 30px;
+}
+
+img{
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.funParagraph{
+    color: green;
+    font-size: 20px;
+    font-style: italic;
+}
+p{
+    margin-left: 20px;
+}
+#testP{
+    margin-top: 0px;
+}
